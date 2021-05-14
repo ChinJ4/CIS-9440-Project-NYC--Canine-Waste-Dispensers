@@ -91,7 +91,7 @@ to compare numbers between a few years.
 We used a line chart to visualize this so that the user can see the trend 
 throughout the years.
 
-6.Total service requests / yeari) We used a bar graph to visualize this because a bar graph makes it easy 
+6.Total service requests / year) We used a bar graph to visualize this because a bar graph makes it easy 
 to compare numbers between a few years.
 
 7.Total waste bag dispensers installed / year
@@ -101,7 +101,6 @@ throughout the years.
 
 BI Application Wireframe design:
 
-Use correct file path here to show picture of Wireframe design...
 ![Wireframe Design](/img/wireframe_design.JPG)
 
 Picture of final Dashboard:
