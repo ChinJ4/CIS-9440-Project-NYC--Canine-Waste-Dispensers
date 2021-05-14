@@ -27,6 +27,7 @@ Description of the issues or opportunities the project will address:
 
 Issue: 
 1.NYC 311 Canine Waste Requests
+
 Opportunities: 
 1.Visualize the benefits of canine waste bag dispensers.
 2.Identify areas where canine waste bag dispensers can be installed strategicallly, to reduce service calls, increase sanitation, and save city resources.
