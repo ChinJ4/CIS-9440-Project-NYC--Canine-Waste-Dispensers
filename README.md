@@ -24,6 +24,7 @@ this can alleviate some of the city’s problems with canine waste and promote a
 
 
 Description of the issues or opportunities the project will address:
+
 Issue: 
 -NYC 311 Canine Waste Requests
 Opportunities: 
