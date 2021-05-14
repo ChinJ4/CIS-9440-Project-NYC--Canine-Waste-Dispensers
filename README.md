@@ -59,7 +59,7 @@ List of Data Warehouse KPI's:
 This project's Dimensional Model consists of (3) Facts and (2) Dimensions
 
 Use correct file path here to show picture of dimensional model...
-![Alt text](/img/dimensional_model.jpg)
+![Dimensional Model](https://github.com/ChinJ4/CIS-9440-Project-NYC--Canine-Waste-Dispensers/blob/main/img/dimensional_model.JPG?raw=true)
 
 This project's Kimball Bus Matrix:
 
@@ -69,7 +69,6 @@ Use correct file path here to show picture of dimensional model...
 ### Business Intelligence Design and Development
 
 List of Visualizations for each KPI:
-
 1. Number of waste bag dispensers / zip code
 We used a map to visualize this so that the user can easily see which 
 parts of New York have waste bag dispensers, as well as the number of 
