@@ -26,10 +26,10 @@ this can alleviate some of the city’s problems with canine waste and promote a
 Description of the issues or opportunities the project will address:
 
 Issue: 
--NYC 311 Canine Waste Requests
+1.NYC 311 Canine Waste Requests
 Opportunities: 
--Visualize the benefits of canine waste bag dispensers.
--Identify areas where canine waste bag dispensers can be installed strategicallly, to reduce service calls, increase sanitation, and save city resources.
+1.Visualize the benefits of canine waste bag dispensers.
+2.Identify areas where canine waste bag dispensers can be installed strategicallly, to reduce service calls, increase sanitation, and save city resources.
 
 
 Project Business or Organization Value:
@@ -69,33 +69,33 @@ This project's Kimball Bus Matrix:
 
 List of Visualizations for each KPI:
 
-1.Number of waste bag dispensers / zip code
+1.Number of waste bag dispensers / zip code:
 We used a map to visualize this so that the user can easily see which 
 parts of New York have waste bag dispensers, as well as the number of 
 waste bag dispensers in comparison to other zip codes.
 
-2.Number of dog licenses / zip code
+2.Number of dog licenses / zip code:
 We used a map to visualize this so that the user can easily see which 
 parts of New York have dog licenses, as well as the number of dog 
 licenses in comparison to other zip codes.
 
-3.Number of canine violations / zip code
+3.Number of canine violations / zip code:
 We used a map to visualize this so that the user can easily see which 
 parts of New York have canine violations, as well as the number of canine 
 violations in comparison to other zip codes.
 
-4.Number of dog licenses issued / year
+4.Number of dog licenses issued / year:
 We used a bar graph to visualize this because a bar graph makes it easy 
 to compare numbers between a few years.
 
-5.Total service requests / total dog licenses by zip code
+5.Total service requests / total dog licenses by zip code:
 We used a line chart to visualize this so that the user can see the trend 
 throughout the years.
 
-6.Total service requests / year) We used a bar graph to visualize this because a bar graph makes it easy 
+6.Total service requests / year: We used a bar graph to visualize this because a bar graph makes it easy 
 to compare numbers between a few years.
 
-7.Total waste bag dispensers installed / year
+7.Total waste bag dispensers installed / year:
 We used a line chart to visualize this so that the user can see the trend 
 throughout the years.
 ...
